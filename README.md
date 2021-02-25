@@ -1,6 +1,6 @@
-# hashcode-2020
+# google-hashcode
 
-This is the code used by our Team to solve the Google HashCode 2020.
+This is the code used by our Team to solve the Google HashCode 2020/2021.
 
 ## 2021
 
